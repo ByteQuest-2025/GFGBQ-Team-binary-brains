@@ -1,0 +1,59 @@
+Build a full-stack prototype for a "Silent Disease Early Detection Engine" that detects potential life-threatening diseases in early stages based on non-obvious health signals. Use Python (Flask) for the backend and HTML/CSS/JS for a simple frontend. Follow these specifications:
+
+1️⃣ **Backend (Flask API)**:
+- Endpoint `/predict` (POST) that accepts JSON input.
+- Input JSON structure:
+{
+    "lab_trends": {"glucose": number, "bp": number, "cholesterol": number},
+    "sleep_hours": number (0-12),
+    "activity_level": number (1-5),
+    "stress_level": number (1-5),
+    "family_history": ["diabetes", "hypertension", "heart_disease"],
+    "mental_health": {"anxiety": number, "depression": number}
+}
+- AI logic:
+  - Calculate a **risk score (0-100%)** based on weighted factors:
+    * Lab trends (glucose, bp, cholesterol)
+    * Sleep (<6 hours increases risk)
+    * Low activity (<3) increases risk
+    * High stress increases risk
+    * Family history adds additional risk
+    * Mental health indicators add risk
+  - Provide **preventive recommendations**:
+    * Low risk: maintain lifestyle
+    * Moderate risk: lifestyle changes + regular checkups
+    * High risk: consult doctor
+- Endpoint `/` should return a simple message: "Silent Disease Early Detection API is running".
+
+2️⃣ **Frontend (HTML + CSS + JS)**:
+- A form with input fields for:
+  * Glucose, BP, Cholesterol
+  * Sleep Hours, Activity Level (1-5), Stress Level (1-5)
+  * Family History (checkboxes)
+  * Mental Health indicators (sliders or inputs)
+- A **Submit** button that calls `/predict` API using fetch() POST request.
+- Display the **risk score** and **recommendation** dynamically on the page.
+- Simple, clean UI (Bootstrap optional) for a demo-ready look.
+
+3️⃣ **Integration & Deployment**:
+- Replit should run Flask backend.
+- Frontend can be served from Flask static folder or separate HTML page.
+- Include **CORS support** in Flask to allow frontend requests.
+
+4️⃣ **Extras**:
+- Include error handling in backend for missing/invalid fields.
+- Cap risk score at 100%.
+- JSON response example:
+{
+  "risk_score": 72,
+  "recommendation": "Moderate risk. Consider lifestyle improvements and regular checkups."
+}
+
+5️⃣ **Documentation**:
+- Provide a **README** with:
+  * Overview of the app
+  * How risk is calculated
+  * Example input/output
+  * Instructions to run on Replit
+
+Make the code clean, modular, and ready to run on Replit with minimal configuration. Include comments explaining each part of the backend and frontend code.
