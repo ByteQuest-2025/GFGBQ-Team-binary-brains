@@ -38,3 +38,10 @@ This system addresses the gap by **aggregating non-obvious signals** to provide 
 ## Live Demo
 Try the website here: [Silent Sentinel App](https://silent-sentinel--akshanpaunikar0.replit.app/)
 
+## Below are some screenshots showcasing the user interface and workflow of HealthGuardAI
+
+<img width="1510" height="385" alt="image" src="https://github.com/user-attachments/assets/557e7994-8948-4137-b343-234087d5a2d1" />
+<img width="1577" height="893" alt="image" src="https://github.com/user-attachments/assets/905b91ce-bd12-43fa-8446-5e9a5c3efec9" />
+
+
+
