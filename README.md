@@ -18,7 +18,7 @@ The **HealthGuardAI** is an AI-powered system designed to identify potential hea
 This system is aimed at helping both patients and doctors take early action, promoting **preventive healthcare** rather than reactive diagnosis.
 
 ## Live Demo
-Try the website here: [Silent Sentinel App](https://silent-sentinel--akshanpaunikar0.replit.app/)
+Try the website here: [HealthGuardAI](https://early-warn-ai.lovable.app)
 
 ## Disclaimer
 
@@ -45,8 +45,13 @@ This system addresses the gap by **aggregating non-obvious signals** to provide 
 
 ## Below are some screenshots showcasing the user interface and workflow of HealthGuardAI
 
-<img width="1510" height="385" alt="image" src="https://github.com/user-attachments/assets/557e7994-8948-4137-b343-234087d5a2d1" />
-<img width="1577" height="893" alt="image" src="https://github.com/user-attachments/assets/905b91ce-bd12-43fa-8446-5e9a5c3efec9" />
+<img width="1437" height="901" alt="image" src="https://github.com/user-attachments/assets/18d618cb-485d-469b-b461-89c1c6ab2269" />
+
+<img width="1068" height="900" alt="image" src="https://github.com/user-attachments/assets/20845e2e-850f-494d-aebc-4c998bf0481a" />
+
+<img width="1058" height="895" alt="image" src="https://github.com/user-attachments/assets/9a7a6a3d-b366-4f2a-85db-09fefc24b4bc" />
+
+
 
 
 
