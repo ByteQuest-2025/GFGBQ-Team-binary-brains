@@ -1,5 +1,8 @@
 # GFGBQ-Team-binary-brains
 Repository for binary brains - Vibe Coding Hackathon
+Team Members : 
+AKSHAN PAUNIKAR
+ADVAITA DHANGARE
 
 #PROBLEM STATEMENT:
 PS 05 : "Silent Disease” Early Detection Engine
