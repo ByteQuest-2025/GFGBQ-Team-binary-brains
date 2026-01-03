@@ -2,7 +2,7 @@
 Repository for binary brains - Vibe Coding Hackathon
 
 **Team Members:**  
-- AKSHAN PAUNIKAR 
+- AKSHAN PAUNIKAR
 - ADVAITA DHANGARE
 
 #PROBLEM STATEMENT:
