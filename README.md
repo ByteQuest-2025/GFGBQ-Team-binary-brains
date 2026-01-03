@@ -17,6 +17,14 @@ The **HealthGuardAI** is an AI-powered system designed to identify potential hea
 
 This system is aimed at helping both patients and doctors take early action, promoting **preventive healthcare** rather than reactive diagnosis.
 
+## Live Demo
+Try the website here: [Silent Sentinel App](https://silent-sentinel--akshanpaunikar0.replit.app/)
+
+## Disclaimer
+
+HealthGuardAI is a prototype built for hackathon purposes only.
+It does not provide medical diagnosis and should not replace professional medical advice.
+
 ## Features
 
 - **Risk Probability Scores**: Instead of a simple yes/no, the system outputs a **risk percentage** for early-stage conditions.  
@@ -34,9 +42,6 @@ This system addresses the gap by **aggregating non-obvious signals** to provide 
 
 ## Innovation & Creativity
 - Early detection of “silent diseases” that patients are unaware of.  
-
-## Live Demo
-Try the website here: [Silent Sentinel App](https://silent-sentinel--akshanpaunikar0.replit.app/)
 
 ## Below are some screenshots showcasing the user interface and workflow of HealthGuardAI
 
