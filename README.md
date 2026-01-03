@@ -2,11 +2,11 @@
 Repository for binary brains - Vibe Coding Hackathon
 
 #PROBLEM STATEMENT:
-ps 05 :Silent Disease” Early Detection Engine
+PS 05 : "Silent Disease” Early Detection Engine
 (Detect What Patients Don’t Even Know They Have)
 
 #PROJECT NAME:
-HealthGuardAI
+"HealthGuardAI"
 
 ## Overview
 The **HealthGuardAI** is an AI-powered system designed to identify potential health risks **before symptoms become obvious**. It analyzes multiple subtle signals from patient data, including lab trends, lifestyle, stress levels, and family history, to provide **risk probabilities and preventive recommendations**.  
@@ -30,4 +30,7 @@ This system addresses the gap by **aggregating non-obvious signals** to provide 
 
 ## Innovation & Creativity
 - Early detection of “silent diseases” that patients are unaware of.  
-- Uses a **probabilistic approach** rather than binary ou
+
+## Live Demo
+Try the website here: [Silent Sentinel App](https://silent-sentinel--akshanpaunikar0.replit.app/)
+
