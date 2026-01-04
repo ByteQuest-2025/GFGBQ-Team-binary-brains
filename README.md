@@ -20,9 +20,9 @@ This system is aimed at helping both patients and doctors take early action, pro
 ## Live Demo
 Try the website here: [HealthGuardAI](https://early-warn-ai.lovable.app)
 
-### 1️⃣ Presentation (PDF)
+### Presentation (PDF) & 2-min DEMO VIDEO
 **HealthGuardAI PPT** – Complete hackathon presentation in PDF format.  
-[View PPT](https://drive.google.com/drive/folders/1ndp4yqFORcsUWj89K61EV0VPTAtrmNTe?usp=drive_link)
+[View DRIVE](https://drive.google.com/drive/folders/1ndp4yqFORcsUWj89K61EV0VPTAtrmNTe?usp=drive_link)
 
 ## Disclaimer
 
